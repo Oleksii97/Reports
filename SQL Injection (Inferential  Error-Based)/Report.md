@@ -1,4 +1,4 @@
-SECURITY REPORT (ENGLISH)
+SECURITY REPORT 
 
 Penetration Testing Report: Critical SQL Injection Vulnerability
 
